@@ -1,4 +1,4 @@
-package com.dspandiyan.catalog.domain;
+package com.dspandiyan.bookstore.catalogservice.domain;
 
 class ProductMapper {
 

@@ -1,4 +1,4 @@
-package com.dspandiyan.catalog;
+package com.dspandiyan.bookstore.catalogservice;
 
 import jakarta.validation.constraints.Min;
 import org.springframework.boot.context.properties.ConfigurationProperties;

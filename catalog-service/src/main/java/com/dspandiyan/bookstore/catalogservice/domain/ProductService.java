@@ -1,6 +1,6 @@
-package com.dspandiyan.catalog.domain;
+package com.dspandiyan.bookstore.catalogservice.domain;
 
-import com.dspandiyan.catalog.ApplicationProperties;
+import com.dspandiyan.bookstore.catalogservice.ApplicationProperties;
 import jakarta.transaction.Transactional;
 import java.util.Optional;
 import org.springframework.data.domain.Page;

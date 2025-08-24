@@ -1,6 +1,6 @@
-package com.dspandiyan.catalog.web.exception;
+package com.dspandiyan.bookstore.catalogservice.web.exception;
 
-import com.dspandiyan.catalog.domain.ProductNotFoundException;
+import com.dspandiyan.bookstore.catalogservice.domain.ProductNotFoundException;
 import java.net.URI;
 import java.time.Instant;
 import org.springframework.http.HttpStatus;

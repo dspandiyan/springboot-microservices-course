@@ -1,4 +1,4 @@
-package com.dspandiyan.catalog;
+package com.dspandiyan.bookstore.catalogservice;
 
 import org.junit.jupiter.api.Test;
 

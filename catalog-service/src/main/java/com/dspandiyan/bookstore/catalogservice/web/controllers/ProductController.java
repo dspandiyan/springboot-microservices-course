@@ -1,9 +1,9 @@
-package com.dspandiyan.catalog.web.controllers;
+package com.dspandiyan.bookstore.catalogservice.web.controllers;
 
-import com.dspandiyan.catalog.domain.PagedResult;
-import com.dspandiyan.catalog.domain.Product;
-import com.dspandiyan.catalog.domain.ProductNotFoundException;
-import com.dspandiyan.catalog.domain.ProductService;
+import com.dspandiyan.bookstore.catalogservice.domain.PagedResult;
+import com.dspandiyan.bookstore.catalogservice.domain.Product;
+import com.dspandiyan.bookstore.catalogservice.domain.ProductNotFoundException;
+import com.dspandiyan.bookstore.catalogservice.domain.ProductService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

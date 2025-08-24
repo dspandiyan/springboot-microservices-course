@@ -1,4 +1,4 @@
-package com.dspandiyan.catalog;
+package com.dspandiyan.bookstore.catalogservice;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;

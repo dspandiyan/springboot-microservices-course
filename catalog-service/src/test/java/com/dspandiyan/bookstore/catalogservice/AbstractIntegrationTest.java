@@ -1,4 +1,4 @@
-package com.dspandiyan.catalog;
+package com.dspandiyan.bookstore.catalogservice;
 
 import io.restassured.RestAssured;
 import org.junit.jupiter.api.BeforeEach;
